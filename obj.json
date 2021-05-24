@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "ordinateur",
+        "masse": "30",
+        "valeur": 800 
+    },
+    {
+        "nom": "écran",
+        "masse": "5",
+        "valeur": 100
+    }
+]
