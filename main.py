@@ -7,3 +7,4 @@ objFile = open("./obj.json", "r")
 
 objlist = json.loads(objFile.read())
 
+print(funcs.glouton(objlist, mMaxSac))
